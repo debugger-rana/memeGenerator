@@ -29,14 +29,16 @@ Steps to use the API:
 https://api.imgflip.com/get_memes
 ```
 
-## Authors
+## Author
 
-- [@debuggerrana](https://github.com/debugger-rana)
+- [GitHub](https://github.com/debugger-rana)
+-[Linkedin](https://www.linkedin.com/in/ranapratapsinghpatel/)
+-[Twitter]{https://twitter.com/debuggerrana}
 
 
 ## Demo
 
--[live Demo]()
+-[live Demo](https://meme-generator-two-steel.vercel.app/)
 
 
 
